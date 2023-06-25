@@ -1,4 +1,18 @@
+/*barra*/
 .barra {
-    display: flex;
+    display: block;
     background-color: #75787b;
 }
+#barra1 {
+    color: white;
+    display: inline-flex;
+    padding-left: 100px;
+    font-size: 19px;
+}
+#contac {
+    display: inline-flex;
+    color: white;
+    font-size: 19px;
+    padding-left: 700px;
+}
+/*head*/

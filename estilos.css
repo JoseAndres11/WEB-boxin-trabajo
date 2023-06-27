@@ -26,3 +26,30 @@
     display: inline-flex;
     
 }
+
+/*SECTION SOMOS*/
+
+#somos {
+    background: rgb(118, 120, 122);
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#somos h2 {
+    margin-left: 160px;
+    margin-top: 60px;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    right: 165px;
+    font-size: 40px;
+}
+
+#somos p {
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#somos img {
+    width: 100%;
+}

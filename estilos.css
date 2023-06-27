@@ -1,18 +1,28 @@
-/*barra*/
-.barra {
-    display: block;
+/*hearder*/
+#barra {
     background-color: #75787b;
 }
+
 #barra1 {
-    color: white;
     display: inline-flex;
-    padding-left: 100px;
-    font-size: 19px;
-}
-#contac {
-    display: inline-flex;
+    margin-left: 150px;
     color: white;
-    font-size: 19px;
-    padding-left: 700px;
 }
-/*head*/
+
+#wsp {
+    display: inline-block;
+    margin-left: 700px;
+    padding-top: 25px;
+    color: white;
+}
+
+#imagenwsp {
+    height: 50px;
+    width: 50px;
+    display: flex;
+}
+/*producto*/
+.producto {
+    display: inline-flex;
+    
+}

@@ -1,30 +1,63 @@
-/*hearder*/
+/*headear*/
 #barra {
     background-color: #75787b;
+
 }
 
-#barra1 {
+#barra p {
+    margin-top: 15px;
+    margin-left: 100px;
+    padding-left: 40px;
+    color: white;
+    font-size: 17px;
     display: inline-flex;
+}
+
+#barra a {
+    margin-left: 480px;
+}
+
+#contacto {
+    margin-top: 25px;
+    display: inline-flex;
+}
+
+#contacto a {
     margin-left: 150px;
-    color: white;
+    padding: 0px 800px 0px 0px;
 }
 
-#wsp {
-    display: inline-block;
-    margin-left: 700px;
-    padding-top: 25px;
-    color: white;
+#contacto h4 {
+    margin-top: 15px;
+    padding-left: 150px;
+    text-align: center;
+    color: #33373b;
+    font-size: 30px;
+
 }
 
-#imagenwsp {
-    height: 50px;
-    width: 50px;
-    display: flex;
+#contacto button {
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: #ffb536;
+    border-radius: 50px;
+    width: 180px;
+    height: 55px;
+    border: #ffb536;
+    color: white;
+    font-size: 20px;
 }
-/*producto*/
-.producto {
+
+.producto li {
     display: inline-flex;
-    
+    margin: 15px 10px 25px 15px;
+    padding-left: 60px;
+}
+
+.producto a {
+    text-decoration: none;
+    color: #999999;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 /*SECTION SOMOS*/
@@ -53,21 +86,26 @@
 #somos img {
     width: 100%;
 }
-#iconos{
+
+#iconos {
     background-color: red;
 }
-#iconos img{
+
+#iconos img {
     width: 20%;
 }
-h2{
+
+h2 {
     text-align: center;
 }
-#logot img{
+
+#logot img {
     padding-left: 20%;
-    
-            
+
+
 }
-#logot p{
-  font-weight: 400;
-   
+
+#logot p {
+    font-weight: 400;
+
 }

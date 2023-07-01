@@ -23,8 +23,9 @@
 }
 
 #contacto a {
-    margin-left: 150px;
+    margin-left: 120px;
     padding: 0px 800px 0px 0px;
+
 }
 
 #contacto h4 {
@@ -48,18 +49,21 @@
     font-size: 20px;
 }
 
-.producto li {
-    display: inline-flex;
-    margin: 15px 10px 25px 15px;
-    padding-left: 60px;
+#menu1 nav {
+    background-color: #f2f2f2;
 }
+.menu2 li {
+    display: inline-block;
+    margin-right: 10px;
+}
+.menu2 li a {
+    display: block;
 
-.producto a {
     text-decoration: none;
-    color: #999999;
-    font-family: Arial, Helvetica, sans-serif
+    color: #333;
+    margin-left: 80px;
+    font-size: 20px;
 }
-
 /*SECTION SOMOS*/
 
 #somos {

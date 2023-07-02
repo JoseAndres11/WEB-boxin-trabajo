@@ -66,28 +66,30 @@
 }
 /*SECTION SOMOS*/
 
-#somos {
+#section1 {
     background: rgb(118, 120, 122);
-    padding-top: 60px;
-    padding-bottom: 60px;
 }
 
-#somos h2 {
-    margin-left: 160px;
-    margin-top: 60px;
+#section1 h2 {
     color: #ffffff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    position: relative;
-    right: 165px;
-    font-size: 40px;
+    font-size: 70px;
+    padding-top: 150px;
+}
+#section1 hr {
+    height: 6px;
+    background-color: yellow;
+    margin: 0px 120px 0px 120px;
+    text-decoration: none;
 }
 
-#somos p {
+#section1 p {
+    padding-left: 120px;
     margin-top: 20px;
     color: rgb(255, 255, 255);
 }
 
-#somos img {
+#section1 img {
     width: 100%;
 }
 

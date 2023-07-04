@@ -1,21 +1,18 @@
 /*headear*/
 #barra {
     background-color: #75787b;
-
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
-
-#barra p {
-    margin-top: 15px;
-    margin-left: 100px;
-    padding-left: 40px;
+#barra p, #barra a{
     color: white;
+    font-weight: bold;
     font-size: 17px;
-    display: inline-flex;
+    margin-bottom: 0;
 }
 
-#barra a {
-    margin-left: 480px;
-}
+
+
 
 #contacto {
     margin-top: 25px;

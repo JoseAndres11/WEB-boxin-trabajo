@@ -196,7 +196,7 @@ a {
 
 #section3 {
     background-color: red;
-    height: 500px;
+    padding: 0;
 }
 
 #section3 h2 {
@@ -207,7 +207,7 @@ a {
 
 #section3 img {
     padding: 0px 80px;
-    width: 300px;
+    width: 310px;
 }
 
 #section3 p {
@@ -219,6 +219,5 @@ a {
     width: 300px;
     background-color: white;
 }
-
 
 /*final de section3*/

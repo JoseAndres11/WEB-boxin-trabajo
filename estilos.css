@@ -17,7 +17,6 @@
 #contacto {
     margin-top: 25px;
     background-color: white;
-
 }
 
 #contacto h4 {
@@ -70,13 +69,12 @@ nav li a {
 
 #section1 {
     background: rgb(118, 120, 122);
-
 }
 
 #section1 h2 {
     color: #ffffff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 72px;
+    font-size: 70px;
     padding-top: 60px;
     text-align: left;
     font-weight: bold;
@@ -92,25 +90,22 @@ nav li a {
 #section1 img {
     width: 100%;
     height: 100%;
-
 }
 
 /*final de section somos*/
 
 /*iconos*/
 #iconos {
-    padding: 50px 80px;
-
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #iconos img {
     width: 70px;
-
 }
 
 #iconos h3 {
     font-size: 15px;
-
 }
 
 /*final de iconos*/
@@ -124,14 +119,14 @@ nav li a {
 #logot h2 {
     padding-top: 50px;
     text-align: center;
-    font-size: 22px;
+    font-size: 32px;
     font-weight: bold;
     color: #4d4d4d;
 }
 
 #logot img {
-    width: 40%;
-    margin-left: 400px;
+    width: 800px;
+    margin-left: 245px;
     padding-bottom: 25px;
     padding-top: 50px;
 
@@ -139,12 +134,12 @@ nav li a {
 
 #logot h4 {
     color: #4d4d4d;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 #logot p {
     color: #4d4d4d;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
 }
 
@@ -166,6 +161,7 @@ a {
 }
 
 #section2 h2 {
+
     color: #ffb536;
     font-size: 42px;
 }
@@ -193,16 +189,13 @@ a {
 
 /*section3*/
 
-
-#section3 {
-    background-color: red;
-    padding: 0;
-}
-
 #section3 h2 {
+    color: #4d4d4d;
+    margin-top: 90px;
+    margin-bottom: 115px;
     text-align: center;
-    
-
+    font-weight: bold;
+    font-size: 40px;
 }
 
 #section3 img {
@@ -211,13 +204,75 @@ a {
 }
 
 #section3 p {
-     text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(77, 77, 77);
+    font-weight: bold;
 }
 
 #section3 li {
-
     width: 300px;
-    background-color: white;
+    margin-bottom: 120px;
 }
 
 /*final de section3*/
+
+/*section4*/
+
+#section4 {
+    background-color: rgba(170, 170, 170, 0.1);
+}
+
+#section4 h2 {
+    color: #4d4d4d;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#section4 img {
+    width: 100%;
+}
+
+#section4 p {
+    margin-top: 33%;
+    text-align: left;
+    font-weight: bold;
+    color: #4d4d4d;
+    font-size: 18px;
+}
+
+
+/*final de section4*/
+
+/*section5*/
+
+#section5 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#section5 h2 {
+    text-align: center;
+    padding: 50px 0px;
+}
+
+
+
+
+#section5 .mapouter {
+    position: relative;
+    text-align: right;
+    width: 100%;
+    height: 400px;
+}
+
+#section5 .gmap_iframe {
+    width: 100% !important;
+    height: 400px !important;
+}
+/*final de section5*/

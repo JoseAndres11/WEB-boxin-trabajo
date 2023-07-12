@@ -275,4 +275,39 @@ a {
     width: 100% !important;
     height: 400px !important;
 }
+
 /*final de section5*/
+
+/*section6*/
+
+#section6 {
+    padding: 15px 0px;
+    background-color: #4d4d4d;
+
+}
+
+#section6 p {
+    
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+}
+
+#section6 img {
+    margin: 0px 5px;
+    height: 100%;
+}
+
+#section6 a {
+    font-size: 12px;
+    margin: 0;
+    color: white;
+    padding: 0px 26px;
+
+
+    
+
+}
+
+/*final de section6*/
